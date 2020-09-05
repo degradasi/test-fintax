@@ -1,5 +1,7 @@
 # test-fintax
 
+website preview https://fintax-test.web.app | https://fintax-test.firebaseapp.com
+
 ## Build Setup
 
 ```bash
